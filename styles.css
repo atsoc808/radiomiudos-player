@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #442895;
+  font-family: "Comfortaa", sans-serif;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.canalmiudinhos-page {
+  background-color: #347b02; /* New background color */
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 4rem;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
+.title-container {
+  margin-bottom: 10rem;
+}
+
+.player-container {
+  margin-bottom: 10rem;
+  width: 90%;
+}
+
+.logo {
+  margin-top: 2rem;
+  width: 150px;
+}
+
+ul {
+  list-style-type: none; /* Remove bullet points */
+  padding-left: 0; /* Optional: removes left padding (which is added by default) */
+}
+
+li {
+  margin-bottom: 0.5rem; /* Optional: adds space between list items */
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  .logo {
+    width: 120px;
+  }
+  .title-container {
+    margin-bottom: 1.5rem;
+  }
+  .player-container {
+    margin-bottom: 1.5rem;
+  }
+}
