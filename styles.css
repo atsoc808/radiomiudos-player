@@ -29,12 +29,12 @@ h2 {
   margin-bottom: 1.5rem;
 }
 .title-container {
-  padding-bottom: 10rem;
+  padding-bottom: 7rem;
 }
 
 .player-container {
-  padding-bottom: 10rem;
-  width: 90%;
+  padding-bottom: 7rem;
+  width: 100%;
 }
 
 .logo {
@@ -64,9 +64,9 @@ li {
     width: 120px;
   }
   .title-container {
-    padding-bottom: 1.5rem;
+    padding-bottom: 1rem;
   }
   .player-container {
-    padding-bottom: 1.5rem;
+    padding-bottom: 1rem;
   }
 }
