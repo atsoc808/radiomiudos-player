@@ -29,11 +29,11 @@ h2 {
   margin-bottom: 1.5rem;
 }
 .title-container {
-  padding-bottom: 7rem;
+  padding-bottom: 5%;
 }
 
 .player-container {
-  padding-bottom: 7rem;
+  padding-bottom: 5%;
   width: 100%;
 }
 
@@ -64,9 +64,9 @@ li {
     width: 120px;
   }
   .title-container {
-    padding-bottom: 1rem;
+    padding-bottom: 5%;
   }
   .player-container {
-    padding-bottom: 1rem;
+    padding-bottom: 5%;
   }
 }
