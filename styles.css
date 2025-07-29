@@ -10,10 +10,13 @@ body {
   align-items: center;
   height: 100vh;
   text-align: center;
+  padding-top:2rem;
 }
 
 .canalmiudinhos-page {
   background-color: #347b02; /* New background color */
+    padding-top:2rem;
+
 }
 
 h1 {
